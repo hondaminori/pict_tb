@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+tech-boost先生用リポジトリ
 
-Things you may want to cover:
+コミットのコメントと意味は以下の通り
 
-* Ruby version
+rails01
+「Rails 01 Railsの基本的操作、概念を覚える」
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
