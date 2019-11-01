@@ -7,4 +7,5 @@ tech-boost先生用リポジトリ
 rails01
 「Rails 01 Railsの基本的操作、概念を覚える」
 
-
+rails02
+「Rails 02 Viewの構成とBootstrap」
